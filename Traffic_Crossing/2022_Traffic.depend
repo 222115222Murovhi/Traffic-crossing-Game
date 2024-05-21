@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1715931874 source:e:\old_notes\computer sciece 1a\programs\2022_traffic\libtraffic.cpp
+	"libTraffic.h"
+
+1715931176 e:\old_notes\computer sciece 1a\programs\2022_traffic\libtraffic.h
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<assert.h>
+	<functional>
+
+1715931516 source:e:\old_notes\computer sciece 1a\programs\2022_traffic\main.cpp
+	"libTraffic.h"
+
